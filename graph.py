@@ -17,3 +17,6 @@ def plot_training_acc(history):
     plt.legend()
 
     plt.show()
+
+def plot_histories(histories, key="binary_crossentropy):
+
